@@ -1,0 +1,149 @@
+[
+ {
+  "code": "Пн-1",
+  "image": "week/Пн-1.jpg",
+  "text": "week/txt/Пн-1.txt",
+  "date": "2026-10-19",
+  "time": "09:00"
+ },
+ {
+  "code": "Пн-2",
+  "image": "week/Пн-2.jpg",
+  "text": "week/txt/Пн-2.txt",
+  "date": "2026-10-19",
+  "time": "14:00"
+ },
+ {
+  "code": "Пн-3",
+  "image": "week/Пн-3.jpg",
+  "text": "week/txt/Пн-3.txt",
+  "date": "2026-10-19",
+  "time": "19:00"
+ },
+ {
+  "code": "Вт-1",
+  "image": "week/Вт-1.jpg",
+  "text": "week/txt/Вт-1.txt",
+  "date": "2026-10-20",
+  "time": "09:00"
+ },
+ {
+  "code": "Вт-2",
+  "image": "week/Вт-2.jpg",
+  "text": "week/txt/Вт-2.txt",
+  "date": "2026-10-20",
+  "time": "14:00"
+ },
+ {
+  "code": "Вт-3",
+  "image": "week/Вт-3.jpg",
+  "text": "week/txt/Вт-3.txt",
+  "date": "2026-10-20",
+  "time": "19:00"
+ },
+ {
+  "code": "Ср-1",
+  "image": "week/Ср-1.jpg",
+  "text": "week/txt/Ср-1.txt",
+  "date": "2026-10-21",
+  "time": "09:00"
+ },
+ {
+  "code": "Ср-2",
+  "image": "week/Ср-2.jpg",
+  "text": "week/txt/Ср-2.txt",
+  "date": "2026-10-21",
+  "time": "14:00"
+ },
+ {
+  "code": "Ср-3",
+  "image": "week/Ср-3.jpg",
+  "text": "week/txt/Ср-3.txt",
+  "date": "2026-10-21",
+  "time": "19:00"
+ },
+ {
+  "code": "Чт-1",
+  "image": "week/Чт-1.jpg",
+  "text": "week/txt/Чт-1.txt",
+  "date": "2026-10-22",
+  "time": "09:00"
+ },
+ {
+  "code": "Чт-2",
+  "image": "week/Чт-2.jpg",
+  "text": "week/txt/Чт-2.txt",
+  "date": "2026-10-22",
+  "time": "14:00"
+ },
+ {
+  "code": "Чт-3",
+  "image": "week/Чт-3.jpg",
+  "text": "week/txt/Чт-3.txt",
+  "date": "2026-10-22",
+  "time": "19:00"
+ },
+ {
+  "code": "Пт-1",
+  "image": "week/Пт-1.jpg",
+  "text": "week/txt/Пт-1.txt",
+  "date": "2026-10-23",
+  "time": "09:00"
+ },
+ {
+  "code": "Пт-2",
+  "image": "week/Пт-2.jpg",
+  "text": "week/txt/Пт-2.txt",
+  "date": "2026-10-23",
+  "time": "14:00"
+ },
+ {
+  "code": "Пт-3",
+  "image": "week/Пт-3.jpg",
+  "text": "week/txt/Пт-3.txt",
+  "date": "2026-10-23",
+  "time": "19:00"
+ },
+ {
+  "code": "Сб-1",
+  "image": "week/Сб-1.jpg",
+  "text": "week/txt/Сб-1.txt",
+  "date": "2026-10-24",
+  "time": "11:00"
+ },
+ {
+  "code": "Сб-2",
+  "image": "week/Сб-2.jpg",
+  "text": "week/txt/Сб-2.txt",
+  "date": "2026-10-24",
+  "time": "15:00"
+ },
+ {
+  "code": "Сб-3",
+  "image": "week/Сб-3.jpg",
+  "text": "week/txt/Сб-3.txt",
+  "date": "2026-10-24",
+  "time": "19:00"
+ },
+ {
+  "code": "Вс-1",
+  "image": "week/Вс-1.jpg",
+  "text": "week/txt/Вс-1.txt",
+  "date": "2026-10-25",
+  "time": "11:00"
+ },
+ {
+  "code": "Вс-2",
+  "image": "week/Вс-2.jpg",
+  "text": "week/txt/Вс-2.txt",
+  "date": "2026-10-25",
+  "time": "15:00"
+ },
+ {
+  "code": "Вс-3",
+  "image": "week/Вс-3.jpg",
+  "text": "week/txt/Вс-3.txt",
+  "date": "2026-10-25",
+  "time": "19:00"
+ }
+]
