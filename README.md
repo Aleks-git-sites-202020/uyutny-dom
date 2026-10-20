@@ -6,5 +6,6 @@ VK-сообщество «Уютный дом» (https://vk.ru/creativsss).
   **`PUBLISH.md` — инструкция и промпт для Claude in Chrome**: по нему пакет ставится в отложенные VK из своего браузера.
 - `history.md` — история недель (статистика, механики).
 - `skills/uyutny-dom-nedelya-cloud/` — скилл облачной подготовки недели (исходник; для claude.ai — zip в `skills/`).
+- `skills/hh-otkliki-goncharov-cloud-v2/` — скилл откликов на hh.ru v2 (с идеями для компании в письме; для claude.ai — zip в `skills/`).
 
 id файлов — латиницей: Пн-1 → `mon-1`, Вт → `tue`, Ср → `wed`, Чт → `thu`, Пт → `fri`, Сб → `sat`, Вс → `sun`.
