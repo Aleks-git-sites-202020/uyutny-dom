@@ -2,7 +2,7 @@
 
 Готовый пакет «Уютного дома». В VK его ставит пользователь сам — через Claude in Chrome, в своём браузере.
 
-1. Скачайте ветку `claude/optimistic-carson-n144jp`: https://github.com/Aleks-git-sites-202020/uyutny-dom/archive/refs/heads/claude/optimistic-carson-n144jp.zip (или `git clone -b claude/optimistic-carson-n144jp`), распакуйте.
+1. Скачайте репозиторий: https://github.com/Aleks-git-sites-202020/uyutny-dom → Code → Download ZIP (или `git clone`), распакуйте.
 2. Откройте VK в Chrome (вы должны быть залогинены), откройте панель Claude in Chrome.
 3. Вставьте промпт ниже. Если расширение не сможет само выбрать файл — выберите его в окне загрузки по имени из таблицы.
 
@@ -37,7 +37,7 @@
 ```
 Уютный дом — поставь пакет недели 26 окт – 1 ноя в отложенные VK-сообщества «Уютный дом» (https://vk.com/creativsss, id −55440514). Пакет одобрен мной полностью.
 
-Файлы — в репозитории Aleks-git-sites-202020/uyutny-dom, ветка claude/optimistic-carson-n144jp, папка weeks/2026-10-26 (локальная копия: ZIP этой ветки или git clone -b claude/optimistic-carson-n144jp):
+Файлы — в репозитории Aleks-git-sites-202020/uyutny-dom, папка weeks/2026-10-26 (локальная копия: git clone или Download ZIP):
 - картинка поста: weeks/2026-10-26/<id>.jpg, текст поста: weeks/2026-10-26/txt/<id>.txt (вставлять как есть, с пустыми строками между абзацами);
 - клип: weeks/2026-10-26/clip_<id>.mp4, описание клипа: weeks/2026-10-26/desc/<id>.txt.
 
